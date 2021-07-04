@@ -10,10 +10,10 @@ While showing the details provide an option to view details of the next and prev
 Share the final source code via github
 Deploy the frontend and backend(if any) to any free hosting service
 # Installation
-JSON-Server
-Node.js
-WampServer
-NetBeans
+[JSON-Server](https://github.com/typicode/json-server)
+[Node.js](https://nodejs.org/en/)
+[WampServer](https://sourceforge.net/projects/wampserver/)
+[NetBeans](https://netbeans.apache.org/download/nb122/nb122.html)
 # To install JSON using Command Prompt
 
 npm install -g json-server 
