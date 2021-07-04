@@ -1,0 +1,44 @@
+{
+"users" : [
+     
+       	{
+ 	"name"  : "AjithKumar",
+	"age"     : 21,
+	"dob"    : "20-10-2000",
+	"firstname": "AjithKumar",
+	"lastname" : "P",
+	"more":{
+	              "address_line1": "2/30, Anna Colony",
+	               "address_line2": "GM Nagar",
+	               "address_line3": "Chennai",
+	               "phone": "9877869469"  
+         	}
+	},
+	{
+ 	"name"  : "Haridharan",
+	"age"     : 19,
+	"dob"    : "10-11-2012",
+	"firstname": "Haridharan",
+	"lastname" : "A",
+	"more":{
+	              "address_line1": "30/30, GH Colony",
+	               "address_line2": "Lotus Nagar",
+	               "address_line3": "Salem",
+	               "phone": "9080076855"  
+         	}
+	},
+	{
+ 	"name"  : "Dhanasekar",
+	"age"     : 25,
+	"dob"    : "02-09-1990",
+	"firstname": "Dhanasekar",
+	"lastname" : "P",
+	"more":{
+	              "address_line1": "20,  DS Apartment",
+	               "address_line2": "Salem Main road",
+	               "address_line3": "Erode",
+	               "phone": "9877776569"  
+         	}
+	}
+               ]
+}
