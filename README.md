@@ -21,7 +21,7 @@ npm install -g json-server
 
 json-server --watch db.json
 # Additional Requirement
-Beeceptor
+[Beeceptor](https://beeceptor.com/)
 # Contributing
 Step 1:
 Initially Install Node.js for your windows or mac from the official node.js site
